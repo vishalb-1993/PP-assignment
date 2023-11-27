@@ -1,4 +1,4 @@
-//Compile-Time Polymorphism 
+ 
 
  #include<iostream>
 using namespace std; 
